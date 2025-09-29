@@ -1,8 +1,8 @@
-# Desperate_Decorator
+# Desperate Decorator
 
 This game is a type-in published in issue #42 Vol. 4 of 'INPUT' magazine, a publication of Marshall Cavendish Ltd. devoted to 8-bit computers such as Sinclair ZX Spectrum and ZX81, Commodore 64 and VIC-20, Acorn BBC and Electron, Dragon 32 and Tandy CoCo.
 
-The version presented here is the Commodore 64 one: ZX Spectrum, BBC and Dragon 32/Tandy versions were also presented.
+The version presented here is the Commodore 64 one: ZX Spectrum, BBC and Dragon 32/Tandy versions also exist: maybe one dat I'll add them to the repository.
 
 ![alt text](Desperate_Decorator_Screenshot.png "Desperate Decorator for Commodore 64")
 
