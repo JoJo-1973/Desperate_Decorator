@@ -1,10 +1,10 @@
 * = $C000
 
-!source <c64_symbols.asm>
-!source <c64_keyboard.asm>
-!source <vic.asm>
-!source <sid.asm>
-!source <cia.asm>
+!source <c64/symbols.asm>
+!source <c64/keyboard.asm>
+!source <chip/vic.asm>
+!source <chip/sid.asm>
+!source <chip/cia.asm>
 
 ; Global variables
 _ROLLER_BASE          = $03B6   ; Current base address of the roller.
