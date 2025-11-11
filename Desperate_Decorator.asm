@@ -1,4 +1,4 @@
-  * = $C000
+* = $C000
 
 !source <c64_symbols.asm>
 !source <c64_keyboard.asm>
