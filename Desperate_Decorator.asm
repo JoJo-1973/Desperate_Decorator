@@ -2,7 +2,7 @@
 
 !source <c64/symbols.asm>
 !source <c64/keyboard.asm>
-!source <chip/vic.asm>
+!source <chip/vic_ii.asm>
 !source <chip/sid.asm>
 !source <chip/cia.asm>
 
